@@ -1,2 +1,3 @@
 # Educational_agent
-A personalized and cutomized Tutor enriched with Recommendation system, SQL sandbox and many more features.
+A personalized and customised Tutor enriched with a Recommendation system, SQL sandbox and many more features.
+
